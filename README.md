@@ -1,29 +1,8 @@
-# Descrición
+# IA Básica A*
 
-Emprega este arquivo para describir os cambios do teu proxecto.
+Para este ejercicio he modificado los valores del script `Recursive` y modificar el tamaño del laberinto:
 
-Utiliza o formato en markdown coas marcas básicas que aparcen no seguinte exemplo:
+- **Width:** 13
+- **Height:** 13
 
-# Título principal
-## Subtítulo
-
-Texto normal con **negriña** e *cursiva*.
-
-- Lista 1
-- Lista 2
-
-[Ligazón](https://exemplo.com)
-
-
-```csharp
-using UnityEngine;
-
-public class OlaMundo : MonoBehaviour
-{
-    void Start()
-    {
-        Debug.Log("Ola, mundo desde C#!");
-    }
-}
-
-```
+También he modificado la posición de la cámara para una mejor visualización.
